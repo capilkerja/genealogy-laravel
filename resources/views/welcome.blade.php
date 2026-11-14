@@ -38,7 +38,7 @@
         <section class="genealogy-wrap genealogy-hero">
             <div>
                 <span class="genealogy-eyebrow">Family history, thoughtfully connected</span>
-                <h1>Keep the people and stories together.</h1>
+                <h1>Build your family history with confidence.</h1>
                 <p>Build a living family history from the records you already have. Connect people, relationships, places, evidence, timelines, and memories in a workspace made for careful research.</p>
                 <div class="genealogy-actions">
                     @if (Route::has('register')) <a class="genealogy-button" href="{{ route('register') }}">Begin your family history</a> @endif
