@@ -224,5 +224,10 @@
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "homepage": "https://github.com/liberusoftware/project-genealogy-laravel-filament",
+    "support": {
+        "issues": "https://github.com/liberusoftware/project-genealogy-laravel-filament/issues",
+        "source": "https://github.com/liberusoftware/project-genealogy-laravel-filament"
+    }
 }
